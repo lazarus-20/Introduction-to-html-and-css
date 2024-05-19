@@ -1,0 +1,19 @@
+ul{
+    background-image: url("https://lh4.googleusercontent.com/proxy/AglLLDOeWcIO4J_v30MidPKFe731f3y-yYF8Tn4wC92a6r6hzn_Bz3P4uPuVBcTfAxXTsutqYNQ9p13YNKA7Yt376V67bqUgveAs_IryZ_C5r30Wrv4myr7VP2ny");
+    list-style: none;
+    background-color: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+   display: inline;
+   color: white;
+   padding: 8px, 10px;
+   box-sizing: border-box;
+   display: block;
+   text-align: center;
+
+}
+
+

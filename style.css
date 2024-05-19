@@ -1,0 +1,15 @@
+.paragraph{
+    color: red;
+}
+
+a:hover{
+    color: rgb(43, 226, 70);
+}
+
+a:active{
+    color: green;
+}
+
+a:visited{
+    color: aqua;
+}
