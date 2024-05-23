@@ -1,0 +1,47 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header-container{
+    background-color: #5a189a;
+    padding: 15px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu-item{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: aqua;
+}
+button{
+    background-color: #2a9d8f;
+    padding: 10px;
+}
+.banner-container{
+    width: 10px;
+}
+
+.furniture-card{
+   box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    border-radius: 2px;
+    color: #2a9d8f;
+
+}
+.card-container{
+    display: flex;
+
+
+}
